@@ -31,3 +31,17 @@ Database: MongoDB
 State Management: React Hooks / Context API
 
 Hosting: Vercel
+
+📂 Project Setup
+npm install
+npm start
+
+📦 Build
+npm run build
+
+🤝 Contributing
+
+Pull requests are welcome. For major changes, open an issue first to discuss the changes.
+
+Copy-paste this into your repo.
+Now let’s upload your actual code.
